@@ -16,7 +16,7 @@ DENV-PRED 1.0 is a dual-architecture structure-based machine learning (SBML) fra
 ### Access the Web Tool
 You can access the DENV-PRED 1.0 virtual screening pipeline directly through your web browser:
 
-🔗 **[Launch DENV-PRED 1.0 Web Tool Here](https://[YOUR-STREAMLIT-URL-HERE])**
+🔗 **[Launch DENV-PRED 1.0 Web Tool Here](https://denv-predict-1-sbml-prediction-model.streamlit.app/])**
 
 ---
 
