@@ -24,7 +24,7 @@ You can access the DENV-PRED 1.0 virtual screening pipeline directly through you
 If you utilize the DENV-PRED 1.0 webtool in your research, please cite:
 
 > **DENV-PRED 1.0 Webtool** | Ajwin Joseph Martin, Dileep Kumar | Manipal Academy of Higher Education (MAHE) | Version 1.0 (2026).  
-> **Webtool URL:** *(https://[YOUR-STREAMLIT-URL-HERE])*
+> **Webtool URL:** *(https://denv-predict-1-sbml-prediction-model.streamlit.app/)*
 
 
 ---
