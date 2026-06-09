@@ -121,7 +121,7 @@ tab1, tab2, tab3, tab4 = tabs
 with tab1:
     vt, selector, ad_model, classifier, regressor = load_pipeline_assets()
 
-    st.markdown("<div class='metric-box'><b>Welcome to DENV-Pred 1.0:</b> A high-stringency thermodynamic gatekeeper for early-stage Pan-Flavivirus drug discovery.</div>", unsafe_allow_html=True)
+    st.markdown("<div class='metric-box' style='color: #000000;'><b>Welcome to DENV-Pred 1.0:</b> A high-stringency thermodynamic gatekeeper for early-stage Pan-Flavivirus drug discovery.</div>", unsafe_allow_html=True)
     
     # --- BEAUTIFUL MULTI-COLUMN INPUT UI ---
     st.markdown("### ⚙️ Configure Screening Parameters")
